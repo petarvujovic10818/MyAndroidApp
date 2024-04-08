@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">petar_vujovic_rn108-18</string>
+
+    <string-array name="cities">
+        <item>Amsterdam</item>
+        <item>Athens</item>
+        <item>Belgrade</item>
+        <item>Budapest</item>
+        <item>Berlin</item>
+    </string-array>
+
+    <string-array name="difficulties">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+
+</resources>
